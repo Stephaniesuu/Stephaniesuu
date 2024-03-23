@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephaniesue" alt="stephaniesue" /></a> </p>
 
-- 📫 Wanna chat or conjure up something magical together? **stephaniesue777@gmail.com**
-- 🌱 Currently, I’m on a delightful journey learning React and Solidity, dreaming up the most excellent decentralized apps the world has ever seen.
+- 🌱 Currently, I’m on a delightful journey learning React and Solidity, dreaming up the most excellent decentralized apps the world has ever seen. I'm gearing up for Axon Solona Hackathon as a Front-end developer.
 - 🌟 I’m on the lookout for open-hearted collaborations on projects that aim to sprinkle a bit of joy and intelligence across data science and the cryptosphere.
 
 <h2 align="center">🪄 Connect with me 🪄</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/yi-qi-s-0881062ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yi qi (stephanie) su" height="30" width="40" /></a>
+
 </p>
 
 <h2 align="center"">💫 Languages and Tools 💫</h2>
