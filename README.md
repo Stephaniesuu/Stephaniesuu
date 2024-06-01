@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stephaniesue&label=Profile%20views&color=0e75b6&style=flat" alt="stephaniesue" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephaniesue" alt="stephaniesue" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stephaniesuu&theme=onedark" alt="stephaniesue" /></a> </p>
 
 - 🌱 Currently, I’m on a delightful journey learning React and Solidity, dreaming up the most excellent decentralized apps the world has ever seen. I'm gearing up for Axon Solona Hackathon as a Front-end developer.
 - 🌟 I’m on the lookout for open-hearted collaborations on projects that aim to sprinkle a bit of joy and intelligence across data science and the cryptosphere.
