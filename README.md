@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stephaniesuu&theme=onedark" alt="stephaniesue" /></a> </p>
 
-- 🌱 Currently, I’m on a delightful journey learning React and Solidity, dreaming up the most excellent decentralized apps the world has ever seen. I'm gearing up for Axon Solona Hackathon as a Front-end developer.
+- 🌱 Currently, I’m on a delightful journey learning React and Solidity, dreaming up the most excellent decentralized apps the world has ever seen.
 - 🌟 I’m on the lookout for open-hearted collaborations on projects that aim to sprinkle a bit of joy and intelligence across data science and the cryptosphere.
 
 <h2 align="center">🪄 Connect with me 🪄</h2>
