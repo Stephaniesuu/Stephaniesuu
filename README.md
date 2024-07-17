@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Stephanie🌈</h1>
-<h3 align="center">I’m totally enchanted by the magic of web development, the vast universe of blockchain, and the intriguing puzzles of cyber security.</h3>
 
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=27&pause=1000&color=A6E6F7&background=E9E9E900&center=true&vCenter=true&width=435&lines=Hey+there!++;This+is+Stephanie.+%2F%E1%90%A0+.%E1%86%BA.+%E1%90%9F%5C%EF%BE%89+" alt="Typing SVG" /></a>
+</h1>
+<!-- <h3 align="center">I’m totally enchanted by the magic of web development, the vast universe of blockchain, and the intriguing puzzles of cyber security.</h3>
+ -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stephaniesue&label=Profile%20views&color=0e75b6&style=flat" alt="stephaniesue" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stephaniesuu&theme=onedark" alt="stephaniesue" /></a> </p>
 
 - 🌱 Currently, I’m on a delightful journey learning React and Solidity, dreaming up the most excellent decentralized apps the world has ever seen.
-- 🌟 I’m on the lookout for open-hearted collaborations on projects that aim to sprinkle a bit of joy and intelligence across data science and the cryptosphere.
+- 🌟 I’m on the lookout for open-hearted collaborations on projects that aim to sprinkle a bit of joy and intelligence across software development, data science and the cryptosphere.
 
 <h2 align="center">🪄 Connect with me 🪄</h2>
 <p align="center">
