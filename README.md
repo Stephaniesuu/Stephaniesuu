@@ -11,9 +11,9 @@
 - 🌱 Currently, I’m on a delightful journey learning React and Solidity, dreaming up the most excellent decentralized apps the world has ever seen.
 - 🌟 I’m on the lookout for open-hearted collaborations on projects that aim to sprinkle a bit of joy and intelligence across software development, data science and the cryptosphere.
 
-<h2 align="center">🪄 Connect with me 🪄</h2>
+<!-- <h2 align="center">🪄 Connect with me 🪄</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/yi-qi-s-0881062ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yi qi (stephanie) su" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yi-qi-s-0881062ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yi qi (stephanie) su" height="30" width="40" /></a> -->
 
 </p>
 
